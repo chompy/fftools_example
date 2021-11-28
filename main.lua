@@ -1,5 +1,5 @@
 local function on_zone(z)
-    print("Enter zone " .. z)
+    print("Enter zone " .. z .. ".")
 end
 
 function init()
